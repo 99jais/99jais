@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @99jais
    - My name is Pratibha Jaiswal .I am 1999 born
    - I am full stack developer 
-- 👀 I’m interested in making real life projects 
+- 👀 I’m interested in making real life situation based projects 
 - I mainly work in coding  in java and C++
 - I also know React,HTML,CSS,Javascript,IOT,C
 - 
