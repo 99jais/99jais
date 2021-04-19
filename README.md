@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @99jais
-   - My name is Pratibha Jaiswal .I am 1999 born
+   - My name is Pratibha Jaiswal
    - I am full stack developer 
+   - Studing in Kalinga Institute of Industrial Technology(2018-2022)
+   - .I am 1999 born
 - 👀 I’m interested in making real life situation based projects 
 - I mainly work in coding  in java and C++
 - I also know React,HTML,CSS,Javascript,IOT,C
